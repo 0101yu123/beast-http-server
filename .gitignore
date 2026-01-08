@@ -1,0 +1,40 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.a
+*.lib
+*.dll
+
+# 构建目录
+build/
+bin/
+Debug/
+Release/
+dist/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.user
+*.sln
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
